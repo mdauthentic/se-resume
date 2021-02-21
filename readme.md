@@ -99,7 +99,7 @@ This can be used to display tech stack below each experience entry for example.
 
 ## Preview
 
-The template is filled with dummy text, feel free edit and use.
+This template is filled with dummy text, feel free to edit and use.
 
 ![preview](assets/preview.png)
 
