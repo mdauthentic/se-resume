@@ -1,0 +1,43 @@
+%-------------------------------------
+% SE-Resume Latex template
+% Author : Muideen Lawal
+% License : MIT
+% https://github.com/mdauthentic/se-resume-template
+%-------------------------------------
+
+\documentclass{se-resume}
+
+\name{John Doe}
+\subtitle{Backend Engineer}
+% \setaddress{5 street, City}   change header type to `doublecolopt` type
+\setphone{+33-123-456-789}
+\setemail{john.doe@gmail.com}
+\setlinkedin{john-doe}
+\setgithub{johndoe}
+
+
+\begin{document}
+
+%-------------------------------------------------- BEGIN HERE --------------------------------------------------
+
+%---------------------------------------------------- HEADER ----------------------------------------------------
+
+\headertype{\linkedin}{\github}{}{\phone}{\email}{} % Set the order of items here
+\vspace{-6pt} % Set a negative value to push the body up, and the opposite
+
+\input{sections/skills}
+
+\input{sections/experience}
+
+\input{sections/education}
+
+\input{sections/certification}
+
+\input{sections/opensource}
+
+\input{sections/publication}
+
+\input{sections/awards}
+
+
+\end{document}
