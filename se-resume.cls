@@ -58,7 +58,7 @@
 \def\headertype{\doublecol} % \singlecol or \doublecol
 
 % Misc settings
-\def\entryspacing{-0pt}
+\def\entryspacing{1pt}
 
 \def\bulletstyle{\faAngleRight}
 
