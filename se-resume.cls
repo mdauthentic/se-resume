@@ -65,11 +65,10 @@
 % Define colours
 \definecolor{primary}{HTML}{000000}
 \definecolor{myprimary}{HTML}{010b13}
-% \definecolor{secondary}{HTML}{0D47A1}
-\definecolor{secondary}{HTML}{de5246}  % 07bd72 | FF0039 | 7207bd | ff406a | e61947
+\definecolor{secondary}{HTML}{495fef}
 \definecolor{color2}{RGB}{218,232,252}
 \definecolor{accent}{HTML}{263238}
-\definecolor{links}{HTML}{1565C0}   % 1565C0 | 8e09ec | 7600d4 | 0000ff
+\definecolor{links}{HTML}{495fef}
 
 %------------------------------------------------------------------------------------------------------------------- 
 
