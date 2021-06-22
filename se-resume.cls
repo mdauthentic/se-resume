@@ -1,5 +1,5 @@
 \ProvidesClass{se-resume}[2021/02/16 SE Resume Class]
-\LoadClass[letterpaper,11pt]{article}
+\LoadClass[letterpaper,10pt]{article}
 \RequirePackage[empty]{fullpage}
 \RequirePackage{enumitem}
 \RequirePackage{ifxetex}
