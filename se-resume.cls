@@ -115,7 +115,7 @@
   \begin{tabularx}{\textwidth}{Xr}
     {
       \begin{tabular}[c]{l}
-        \fontsize{35}{45}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
+        \fontsize{25}{35}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
         {\textit{\@position}}
       \end{tabular}
     } & {
@@ -132,7 +132,7 @@
   \begin{tabularx}{\textwidth}{Xr}
     {
       \begin{tabular}[c]{l}
-        \fontsize{35}{45}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
+        \fontsize{25}{35}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
         {\textit{\@position}} % You could add a @position here
       \end{tabular}
     } & {
@@ -151,7 +151,7 @@
   \begin{tabularx}{\textwidth}{Xr}
     {
       \begin{tabular}[b]{l}
-        \fontsize{35}{45}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
+        \fontsize{25}{35}\selectfont{\color{primary}{{\textbf{\@fullname}}}} \\
         {\textit{\@position}} % You could add a @position here
       \end{tabular}
     } & {
