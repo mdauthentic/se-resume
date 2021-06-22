@@ -106,8 +106,8 @@
 % -------------------------
 
 % Sections
-\renewcommand{\section}[2]{\vspace{15pt}
-  \colorbox{myprimary}{\color{white}\raggedbottom\normalsize{#1}}\colorbox{secondary}{\color{white}\raggedbottom\normalsize{\hspace{1pt}\textbf{\textsc{#2}}}}
+\renewcommand{\section}[2]{\vspace{5pt}
+  \colorbox{secondary}{\color{white}\raggedbottom\normalsize\textbf{{#1}{\hspace{7pt}\textsc{#2}}}}
 }
 
 % Double column header
